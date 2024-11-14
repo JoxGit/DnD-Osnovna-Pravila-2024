@@ -116,7 +116,7 @@ Opisi Sposobnosti
 |------------|----------------------------------|
 |Snaga       |Fizička moć                       |
 |Spretnost   |Agilnost, refleksi i ravnoteža    |
-|Izdržljivost|Zdravlje i izdržljivost           |
+|Građa       |Zdravlje i izdržljivost           |
 |Inteligencija|Razum i pamćenje                 |
 |Mudrost     |Perceptivnost i mentalna snaga    |
 |Harizma     |Samopouzdanje, držanje i šarm     |
@@ -198,7 +198,7 @@ Primjeri Provjere Sposobnosti
 |------------|--------------------------------------------------------|
 |Snaga       |Dignete, gurnete, povučete ili slomite nešto            |
 |Spretnost   |Krećete se spretnije, brzo ili tiho                     |
-|Izdržljivost|Prelazite granice svoje tjelesne mogućnosti             |
+|Građa       |Prelazite granice svoje tjelesne mogućnosti             |
 |Inteligencija|Razmislite ili se sjetite                              |
 |Mudrost     |Primijetite stvari u okruženju ili ponašanju bića       |
 |Harizma     |Utječete, zabavljate ili zavaravate                     |
@@ -239,7 +239,7 @@ Primjeri Bacanja Spasa
 |------------|----------------------------------|
 |Snaga       |Fizički se oduprete direktnoj sili|
 |Spretnost   |Izbjegnete opasnost               |
-|Izdržljivost|Izdržite otrovnu opasnost         |
+|Građa       |Izdržite otrovnu opasnost         |
 |Inteligencija|Prepoznate iluziju kao lažnu     |
 |Mudrost     |Oduprete se mentalnom napadu      |
 |Harizma     |Utvrdite svoj identitet           |
